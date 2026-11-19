@@ -1,0 +1,7 @@
+{
+  "name": "nuluvium-approved-sets",
+  "private": true,
+  "type": "module",
+  "description": "Public archive of the Nuluvium approved sets",
+  "scripts": { "export": "node scripts/export.mjs", "verify": "node scripts/verify.mjs" }
+}

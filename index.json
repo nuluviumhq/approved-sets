@@ -1,0 +1,186 @@
+{
+  "sets": [
+    {
+      "number": 1,
+      "cid": "nuluvium-testnet-session-1.2-no-published-set-yet",
+      "root": "16313245325821979075297386212513985904297897146991269808238750081968837274575",
+      "postedAt": "2026-11-15T10:40:15.000Z",
+      "block": 153603568,
+      "tx": "0x77e97d9ceff97b7757a42246f6cd6255b61a03f74ec88b6eced319c775b8485d",
+      "document": null,
+      "note": "posted during setup, before the ASP published documents"
+    },
+    {
+      "number": 2,
+      "cid": "bafkreigtrmgqjsdxtlf6fzivnhhlwwtd3faqmtfqv6cp5xsclpdd7zc7vm",
+      "root": "4232041539486382186366857012766131764994454512123019961601836888301615477183",
+      "postedAt": "2026-11-15T11:00:00.000Z",
+      "block": 153609317,
+      "tx": "0x3bcfeb79f82eda8890cae88c8188a6f37721694e423818a9039535266ebf1a0c",
+      "document": "sets/bafkreigtrmgqjsdxtlf6fzivnhhlwwtd3faqmtfqv6cp5xsclpdd7zc7vm.json",
+      "approved": 2,
+      "rejected": 2
+    },
+    {
+      "number": 3,
+      "cid": "bafkreiem4hlstozw7b6pc6juvrd7s3ch7j4s2kvraqd376myu3iyq6j53q",
+      "root": "14569509354473352257814591619536952417298056944707890962053498298078953834237",
+      "postedAt": "2026-11-15T16:10:03.000Z",
+      "block": 153700607,
+      "tx": "0x43bebce3bc3023e775b6f8a3cacebf0fbeb224021a6339beafb9297c4fb96667",
+      "document": "sets/bafkreiem4hlstozw7b6pc6juvrd7s3ch7j4s2kvraqd376myu3iyq6j53q.json",
+      "approved": 3,
+      "rejected": 2
+    },
+    {
+      "number": 4,
+      "cid": "bafkreihcz7swsem3esmkd4df6b6vjoqhe6lp7pw5e6t2vhtrki4wlhoyce",
+      "root": "18495064040764657186674079098553139312281073844106133469072327894899080769597",
+      "postedAt": "2026-11-15T16:33:00.000Z",
+      "block": 153709024,
+      "tx": "0xa21cfbab8406b52b812579de67d06287af7d96e7a879bfefd51b779b5873be26",
+      "document": "sets/bafkreihcz7swsem3esmkd4df6b6vjoqhe6lp7pw5e6t2vhtrki4wlhoyce.json",
+      "approved": 4,
+      "rejected": 2
+    },
+    {
+      "number": 5,
+      "cid": "bafkreifr4swpufz5emx3e36hqkbrzyd3w6v6ivkf3ft276oarwvukfa4iq",
+      "root": "19877577154234402842747363508277197851001106077550709719611370465632440350166",
+      "postedAt": "2026-11-16T02:30:02.000Z",
+      "block": 153889248,
+      "tx": "0xc229e04607eba24a194d05045697b20a95f0e6a3ce39236ce93a2a9f0d45cc6d",
+      "document": "sets/bafkreifr4swpufz5emx3e36hqkbrzyd3w6v6ivkf3ft276oarwvukfa4iq.json",
+      "approved": 5,
+      "rejected": 2
+    },
+    {
+      "number": 6,
+      "cid": "bafkreihduew3xfo2kyzwkddyvigfpw2quirppifkk7woog2fc7wswpfvii",
+      "root": "10255985818613025710269932121971255801232013493677264948351880535613898251896",
+      "postedAt": "2026-11-16T03:09:00.000Z",
+      "block": 153903872,
+      "tx": "0x2998ca7c78b5cdbde8bed5e8e437508d6d9f7b1633c18381a15fb278809e11ba",
+      "document": "sets/bafkreihduew3xfo2kyzwkddyvigfpw2quirppifkk7woog2fc7wswpfvii.json",
+      "approved": 6,
+      "rejected": 2
+    },
+    {
+      "number": 7,
+      "cid": "bafkreigo7i6zmuw4ss2ytkgf2ipag2xz6m6vd3ntm2jsqr3bueqzdekzyq",
+      "root": "19341517047987417442768193320130413617937122325247912865616851158160968642036",
+      "postedAt": "2026-11-16T08:50:00.000Z",
+      "block": 154009738,
+      "tx": "0x8a8caa677c1d6ea51ef78db92363843ca815141cf0fbe131d507f4a31d1942ff",
+      "document": "sets/bafkreigo7i6zmuw4ss2ytkgf2ipag2xz6m6vd3ntm2jsqr3bueqzdekzyq.json",
+      "approved": 7,
+      "rejected": 2
+    },
+    {
+      "number": 8,
+      "cid": "bafkreicmqju3hcgqgd2yvqgjlo2psvuyxqah4ijarmrcm7huuqdnjfh76e",
+      "root": "19609060864219634012970104470452321269676876397152942311762936052397910957460",
+      "postedAt": "2026-11-16T08:55:00.000Z",
+      "block": 154011246,
+      "tx": "0x84907d8e2cdd9608791854f100220895580b6f33a17c64a349b7aec14be02f20",
+      "document": "sets/bafkreicmqju3hcgqgd2yvqgjlo2psvuyxqah4ijarmrcm7huuqdnjfh76e.json",
+      "approved": 8,
+      "rejected": 2
+    },
+    {
+      "number": 9,
+      "cid": "bafkreifxb4bvxfdyjeltafdwqhht37oxh35npantolfsybk2wlmoe53tgm",
+      "root": "12445731925944448591956112152835559331474921361582294475590662160528563824079",
+      "postedAt": "2026-11-16T10:44:00.000Z",
+      "block": 154042097,
+      "tx": "0x43496fe216e844b8be0dd3899f9adffb83eb4e3c108ce0e8b8a18a95f00be1e8",
+      "document": "sets/bafkreifxb4bvxfdyjeltafdwqhht37oxh35npantolfsybk2wlmoe53tgm.json",
+      "approved": 9,
+      "rejected": 2
+    },
+    {
+      "number": 10,
+      "cid": "bafkreiba2dx5myd64264pjuuheku3cjvesiq2nsauldcsg4rgpxexdgfqu",
+      "root": "18938652482292252901860702507318922222373132573263233918777878157105410619946",
+      "postedAt": "2026-11-16T11:07:00.000Z",
+      "block": 154048972,
+      "tx": "0xf45a37d8346b64f51bbfaf266d1be8e1ef3bc41e3da15f34e114342503211cd0",
+      "document": "sets/bafkreiba2dx5myd64264pjuuheku3cjvesiq2nsauldcsg4rgpxexdgfqu.json",
+      "approved": 10,
+      "rejected": 2
+    },
+    {
+      "number": 11,
+      "cid": "bafkreifpjdlsm4orgjq6f2kwvozxmbovq7j2gk2wai2racdlggz7zsy7b4",
+      "root": "5100901407074060027237739481282633574568321758100315387395222914225001375405",
+      "postedAt": "2026-11-17T03:06:00.000Z",
+      "block": 154328691,
+      "tx": "0xcbb633dc976ec1cd3019af44ff642d54e3792286ea1829309a5b5007392c9dd5",
+      "document": "sets/bafkreifpjdlsm4orgjq6f2kwvozxmbovq7j2gk2wai2racdlggz7zsy7b4.json",
+      "approved": 11,
+      "rejected": 2
+    },
+    {
+      "number": 12,
+      "cid": "bafkreie746crisbpbvrcx54dicku2epwy4ytl7xbis6ykoqmsjio5ltqdm",
+      "root": "6351087137520624425755707994791926791358910482106292063533290421633328440004",
+      "postedAt": "2026-11-17T03:25:01.000Z",
+      "block": 154334622,
+      "tx": "0x10c111e8ad868739c659657894e42728836db191657469ea479ad90b4e282c0e",
+      "document": "sets/bafkreie746crisbpbvrcx54dicku2epwy4ytl7xbis6ykoqmsjio5ltqdm.json",
+      "approved": 12,
+      "rejected": 2
+    },
+    {
+      "number": 13,
+      "cid": "bafkreic4m5qltxga3rmz4amolnd4zwngelrqffogcn6poxbx7p2vf64lmy",
+      "root": "11893678838069164072198465197003086839042145661839082776365547433915496454937",
+      "postedAt": "2026-11-17T03:26:01.000Z",
+      "block": 154334932,
+      "tx": "0x7538130991118574f5597fb9a441b3c63883af1c3daa197700d260b8ae4c83df",
+      "document": "sets/bafkreic4m5qltxga3rmz4amolnd4zwngelrqffogcn6poxbx7p2vf64lmy.json",
+      "approved": 13,
+      "rejected": 2
+    },
+    {
+      "number": 14,
+      "cid": "bafkreibyqmbr64jmpwrurlaysp2mrgbmch7hikpfowaokw2umg67ikjjpe",
+      "root": "16880964204075670107640866141384791105659460782380361213752687574081910875893",
+      "postedAt": "2026-11-17T04:03:00.000Z",
+      "block": 154347476,
+      "tx": "0x15e4765e07edbb79e729c547a57a9e6805fe903385dce65fdba559288c9df5ac",
+      "document": "sets/bafkreibyqmbr64jmpwrurlaysp2mrgbmch7hikpfowaokw2umg67ikjjpe.json",
+      "approved": 14,
+      "rejected": 2
+    },
+    {
+      "number": 15,
+      "cid": "bafkreiepyjk3uti7pghbg376unl46qs2kqkagtbzk2lmbqc7dfjlr6qrvy",
+      "root": "16128856178121998585644138922489800865101887482737211379734239356232449166558",
+      "postedAt": "2026-11-17T10:58:00.000Z",
+      "block": 154481432,
+      "tx": "0xc0d005a0dc2236412bc867612a3b5cf36bd1161110179aff842e7eb3b19b734f",
+      "document": "sets/bafkreiepyjk3uti7pghbg376unl46qs2kqkagtbzk2lmbqc7dfjlr6qrvy.json",
+      "approved": 15,
+      "rejected": 2
+    },
+    {
+      "number": 16,
+      "cid": "bafkreigey5l63tlo7m6fykb2q5hu53ytievzpdc5gtopnzq74lgrr6tzja",
+      "root": "11084269393213028847420922075341004144841108751876003415900551526927298619462",
+      "postedAt": "2026-11-17T11:00:01.000Z",
+      "block": 154482056,
+      "tx": "0x588d645ef7c6c0ee48f1432271bb4284032b06f58ad35b6d23fe1d73189e36be",
+      "document": "sets/bafkreigey5l63tlo7m6fykb2q5hu53ytievzpdc5gtopnzq74lgrr6tzja.json",
+      "approved": 16,
+      "rejected": 2
+    }
+  ],
+  "scannedTo": "155269482",
+  "network": {
+    "name": "Robinhood Chain testnet",
+    "chainId": 46630,
+    "entrypoint": "0x1C7Bd821a61A90BA06e21aac4e03640E3D065536",
+    "pool": "0x2B38bF53acc21a51603E68f5BC3bC8943B01fD4a"
+  }
+}

@@ -1,0 +1,2 @@
+sets/*.json -text -diff
+index.json text eol=lf
