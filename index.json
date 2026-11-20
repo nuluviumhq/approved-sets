@@ -185,6 +185,17 @@
       "document": "sets/bafkreih445zqh4hwnlhg6tcoghihnrcuonwyalmrs7rb2r5xeu2sby6hsa.json",
       "approved": 17,
       "rejected": 2
+    },
+    {
+      "number": 18,
+      "cid": "bafkreigijymrvcxbjgh2pvgdvgijmhg6xqtue56uashj4ophp7y4cmtroq",
+      "root": "21236564522755405138624977232997425556230658403390140709214958689252290977388",
+      "postedAt": "2026-11-20T10:04:00.000Z",
+      "block": 155825906,
+      "tx": "0xe780a1471cf834877c9bfed89cf02b00ff72710815f1d01622b4c5508bdc28d6",
+      "document": "sets/bafkreigijymrvcxbjgh2pvgdvgijmhg6xqtue56uashj4ophp7y4cmtroq.json",
+      "approved": 18,
+      "rejected": 2
     }
   ],
   "scannedTo": "155269482",
