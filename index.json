@@ -174,6 +174,17 @@
       "document": "sets/bafkreigey5l63tlo7m6fykb2q5hu53ytievzpdc5gtopnzq74lgrr6tzja.json",
       "approved": 16,
       "rejected": 2
+    },
+    {
+      "number": 17,
+      "cid": "bafkreih445zqh4hwnlhg6tcoghihnrcuonwyalmrs7rb2r5xeu2sby6hsa",
+      "root": "6056267733604110126480348320037859051305708884377958853982395048561365136557",
+      "postedAt": "2026-11-19T07:34:00.000Z",
+      "block": 155346706,
+      "tx": "0xcd333dbb263daabfdf7c2afc4d33de91110debd92a385ad77be5f9802ae00b64",
+      "document": "sets/bafkreih445zqh4hwnlhg6tcoghihnrcuonwyalmrs7rb2r5xeu2sby6hsa.json",
+      "approved": 17,
+      "rejected": 2
     }
   ],
   "scannedTo": "155269482",
